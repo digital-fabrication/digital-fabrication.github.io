@@ -7,7 +7,7 @@ categories: jekyll update
 
 Testing: [blinds-build][blinds-build]
 
-[blinds-build]: initial-blinds-build.gif
+[blinds-build]: /initial-blinds-build.gif
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
