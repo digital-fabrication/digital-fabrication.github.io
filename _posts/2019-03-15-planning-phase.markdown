@@ -13,7 +13,7 @@ The blinds manipulator unit in the already working proto was fitted into the bli
 
 a bunch of pictures  3,6, 
 
-Open design questions currently include the torque capacity requirement for the servo (will the driver be powerful enough to manipulate the tilting rod?),
+Open design questions currently include the torque capacity requirement for the servo (will the driver be powerful enough to manipulate the tilting rod?), the power supply unit (PSU capacity versus consumption of the fully implemented unit), safety (board power handling, servo messing up digits).
 
 
 The 
