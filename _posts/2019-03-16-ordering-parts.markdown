@@ -40,7 +40,7 @@ Basically going higher up in torque from sg90 means that the servo is more hungr
 
 The following parts ended up being ordered. Some common parts for the build and the development such as jumper wires is assumed to be available to us.
 
-![image-title-here](/assets/ordered-parts.png)
+![parts ordered from adafruit](/assets/ordered-parts.png)
 
 # Links & some thoughts
 
