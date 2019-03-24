@@ -6,7 +6,7 @@ categories: blinds
 ---
 # Ordering parts
 
-It is time to order the parts. Our team have been increasingly  leaning more towards an external end product rather than an internal design. The internal design lacks the great and highly desired portability that comes along with the external design - the whole battery powered product could be moved to another window without the effort of disassembling the reassembling the whole thing.
+It is time to order the parts. Our team have been increasingly  leaning more towards an external end product rather than an internal design. The internal design lacks the great and highly desired portability that comes along with the external design - the whole battery powered product could be moved to another window without the effort of disassembling and reassembling the whole thing.
 
 However, we have been struggling to find a solid solution to battery power this prototype. We really would like to enable high level of portability by powering the whole thing via some sort of portable power supply. This in practice would mean that there is no permanent cabling going to the prototype to operate the device. To enable wireless operation, we also need to be able to recharge the device.
 
