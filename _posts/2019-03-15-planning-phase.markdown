@@ -25,6 +25,10 @@ Open design questions currently include the torque capacity requirement for the 
 > Initial build that were created before the principles of digital fabrication course.
 ![initial-build]
 
+---
+
+##### <a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page</a>
+
 [initial-build]: /assets/initial-blinds-build.gif
 [planning-1]: /assets/planning/1.jpg
 [planning-2]: /assets/planning/2.jpg

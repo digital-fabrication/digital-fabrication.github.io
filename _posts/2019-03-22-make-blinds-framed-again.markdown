@@ -60,8 +60,11 @@ In order to do this, certain things must happen in a certain order. To document 
 > Assembled product 2/2
 ![assembled-2]
 
-[boxes.py]: https://www.festi.info/boxes.py/
+---
 
+##### <a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page</a>
+
+[boxes.py]: https://www.festi.info/boxes.py/
 [boxes.py-usage]: /assets/frame/1.jpg
 [lasercut-0]: /assets/frame/vid.gif
 [lasercut-1]: /assets/frame/2.jpg
