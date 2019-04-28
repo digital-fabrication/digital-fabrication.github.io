@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SmartsPlind Planning phase Team Team"
+title:  "SmartsPlind Planning phase Team Team (introductory report)"
 date:   2019-02-27 14:43:36 +0200
 categories: blinds
 ---
