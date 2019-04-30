@@ -9,8 +9,8 @@ categories: blinds
 
 Hey once more before the summary documentation!
 
-Last so on the topic on last week's agenda:
-* We managed to get the softwared finally working for the presentation! After lots of troubleshooting and trial and error it seems we had trouble with not using a common ground for all of our groundings but instead different grounds with different values. So our code was working as intended, just our electrical engineering skills were "malfunctioning". This is something we could have figured out early by discussing it with someone with actual knowledge about electrical engineering, but it feels good to actually figure something out by yourself so it's not too bad we had to fight a bit with it. Bummer about the lost time though.
+So on the topic on last week's agenda:
+* We managed to get the software finally working for the presentation! After lots of troubleshooting and trial and error it seems we had trouble with not using a common ground for all of our groundings but instead different grounds with different values. So our code was working as intended, just our electrical engineering skills were "malfunctioning". This is something we could have figured out early by discussing it with someone with actual knowledge about electrical engineering, but it feels good to actually figure something out by yourself so it's not too bad we had to fight a bit with it. Bummer about the lost time though.
 
 * We didn't have time to build a new mechanism and it turns out that we didn't! Through power of recycling we used the small clips that we have on top of the blinds window frame to attach the blinds from them. It turned out they were a perfect fit for prototyping and we saved material by not throwing them away. They are MDF though so it's not likely they're a lasting solution, but this is something we can figure out outside of the course when we have more time on our hands.
 
@@ -22,6 +22,8 @@ Last so on the topic on last week's agenda:
 * Casing is again something we won't have enough time during the course to finalise the 3D printed design for, so instead we'll keep the MDF casing since it seems to be working just fine. This is something we intend to design outside of the course when we have PCB printed and we have prototyped a bit with wifi modules to figure out most efficient 3D form for our casing.
 
 So, about the presentation: it went surprisingly well. Half-jokingly, we brought out the fire blanket but we had a small case of short circuit during the prototyping which included smoke (not fire though!) so it was there just in case that small chance of something going catastrophically wrong. We were happy that it went well though. We could have done better powerpoint presentation with more informative sliders but otherwise it was good in our opinion.
+
+We also aim to clear our github blinds repository so it's a bit more clear to read for English speaking audience. Having Finnish names in the files and no explanation on them is a bit difficult for non-Finns to read and bad for understandability. Sorry about that!
 
 # What's next?
 
