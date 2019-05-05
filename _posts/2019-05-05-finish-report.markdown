@@ -21,6 +21,16 @@ The milling process had it's kinks also. In the first draft we did not drill the
 ![success2]
 *Fig. 3: The success pcb back/down with pins attached*
 
+![success3]
+*Fig. 4: The success pcb back/down with resistors soldered*
+
+![success4]
+*Fig. 5: The åcb shield attached to the huzzah*
+
+![success5]
+*Fig. 5: Form factor comparison with the prototype mdf chassis*
+
+
 [sunday-editions]: /assets/pcb/sunday_editions.jpg
 [success1]: /assets/pcb/success1.jpg
 [success2]: /assets/pcb/success2.jpg
