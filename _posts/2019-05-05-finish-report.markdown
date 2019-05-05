@@ -15,11 +15,11 @@ The milling process had it's kinks also. In the first draft we did not drill the
 ![sunday-editions]
 *Fig. 1: The two failed pcbs*
 
-![success1]
-*Fig. 1: The success pcb front/up*
+![success2]
+*Fig. 2: The success pcb front/up*
 
 ![success1]
-*Fig. 1: The success pcb back/down with pins attached*
+*Fig. 3: The success pcb back/down with pins attached*
 
 [sunday-editions]: /assets/pcb/sunday_editions.jpg
 [success1]: /assets/pcb/success1.jpg
