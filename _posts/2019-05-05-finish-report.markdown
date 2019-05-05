@@ -87,6 +87,9 @@ Other meaningful more direct links (that are also on the repositories):
 
 If you've reached this far on this blog posts and even if you've also read our earlier blog posts, we would like to thank you for taking interest in our project. We've learned a lot during this course and hope that you've learned something new as well, or at least now know more of the possible pitfalls of designing electronic devices.
 
+---
+
+##### <a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page</a>
 
 [sunday-editions]: /assets/pcb/sunday_editions.jpg
 [success1]: /assets/pcb/success1.jpg

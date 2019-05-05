@@ -14,3 +14,7 @@ In this solution there's only one piece housing and theres living hinge on one s
 This solution is built again from 2 different pieces. One side basically an empty half cylinder that is missing it's top half circle side and inside the half cylinder has two rails. The counterpiece is a tray that has the missing half circle cover with small grip for user to grap on to. The tray should slide into other piece's railing for snug fit. In case the controller needs to be accessed, it can be pulled out neatly and without taking apart the entire setup from the wall. Main difficulty with this solution is making sure the tray can slide snugly into the other piece. If there is a problem that the cover on the tray can't be slid from top part of the housing, we are planning for it to be slid from the bottom and securing it in place with even more snug fit or small plastic bolt.
 
 Currently, these are all still in design phase. When we get the materials ordered, we will calculate the necessary housing size and figure out best casing solution from both functionality and aesthetical standpoint.
+
+---
+
+##### <a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page</a>
