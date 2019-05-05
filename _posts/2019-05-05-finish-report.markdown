@@ -57,13 +57,13 @@ As of writing this, the pcb shield is still not yet fully ready, as it is missin
 
 During the course we learned a bunch of things. We've successfully build a device that tilts the blind mechanism based on the current level of luminosity. We are very happy with the results, and we are still continuing the work to minimize the electronics and to literally fabricate a proper casing for the apparatus. In the scope of this course we did multitude of things, and to remind you of all of our doings, here is a list of all components of the design we've done (in the order they were pretty much implemented):
 
-- TinkerCad model of the controller, actuator (servo motor) and sensors with other required components
-- Arduino code runnable on the real device used and on the TinkerCad model
-- Blinds frame to hold the actual blinds for presentation and testing purposes
-- Blinds controller box to hold the breadboard, buttons and sensors in place for mid term presentation
-- Blinds controller box holder to hold attach the controller box to the blinds frame
-- Dc-dc converter schematic design ("servo-shield") to provide 5V and control signal for the high torque servo motor used on the build
-- Schematic and board design for the input shield and the actual implementation of the shield, provides interface for all the inputs and logically controlled power to the LED indicating the automagic mode
+- [TinkerCad model][blinds-tinkercad] of the controller, actuator (servo motor) and sensors with other required components
+- [Arduino code][code] runnable on the real device used and on the TinkerCad model
+- [Blinds frame][blinds-frame] to hold the actual blinds for presentation and testing purposes
+- [Blinds controller box][blinds-box] to hold the breadboard, buttons and sensors in place for mid term presentation
+- [Blinds controller box holder][blinds-box-holder] to hold attach the controller box to the blinds frame
+- [Dc-dc converter schematic][servo-shield] design ("servo-shield") to provide 5V and control signal for the high torque servo motor used on the build
+- [Schematic and board design for the input shield][input-shield] and the actual implementation of the shield, provides interface for all the inputs and logically controlled power to the LED indicating the automagic mode
 
 ## Resources
 
@@ -76,11 +76,12 @@ Even though many of the components and resources have been already hyperlinked, 
 Other meaningful more direct links (that are also on the repositories):
 
 * [Presentation slides](https://github.com/digital-fabrication/digital-fabrication.github.io/blob/master/assets/Automagic%20venetian%20Bliends.pptx)
-* [Blinds control box](https://github.com/digital-fabrication/blinds/tree/master/blinds-control-box)
-* [Blinds frame](https://github.com/digital-fabrication/blinds/tree/master/blinds-frame)
-* [Blinds input-shield](https://github.com/digital-fabrication/blinds/tree/master/blinds-shield/shield-input)
-* [Blinds controller box holder](https://github.com/digital-fabrication/blinds/blob/master/Blinds-koppa.svg)
-* [Blinds controller source code](https://github.com/digital-fabrication/blinds/blob/master/source.ino)
+* [Blinds control box][blinds-box]
+* [Blinds frame][blinds-frame]
+* [Blinds servo-shield schematic][servo-shield]
+* [Blinds input-shield][input-shield]
+* [Blinds controller box holder][blinds-box-holder]
+* [Blinds controller source code][code]
 
 ## To all readers
 
@@ -95,3 +96,10 @@ If you've reached this far on this blog posts and even if you've also read our e
 [success5]: /assets/pcb/success_formfactor_comparison.jpg
 [huzzah32]: https://www.adafruit.com/product/3405
 [milling-machine]: https://www.rolanddga.com/products/3d/srm-20-small-milling-machine
+[blinds-tinkercad]: https://www.tinkercad.com/things/hpbrvkqL4Yk
+[code]: https://github.com/digital-fabrication/blinds/blob/master/source.ino
+[blinds-frame]: https://github.com/digital-fabrication/blinds/tree/master/blinds-frame
+[blinds-box]: https://github.com/digital-fabrication/blinds/tree/master/blinds-control-box
+[blinds-box-holder]: https://github.com/digital-fabrication/blinds/blob/master/Blinds-koppa.svg
+[servo-shield]: https://github.com/digital-fabrication/blinds/tree/master/blinds-shield
+[input-shield]: https://github.com/digital-fabrication/blinds/tree/master/blinds-shield/shield-input
