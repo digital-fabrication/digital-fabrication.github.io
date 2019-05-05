@@ -25,11 +25,12 @@ The milling process had it's kinks also. In the first draft we did not drill the
 *Fig. 4: The success pcb back/down with resistors soldered*
 
 ![success4]
-*Fig. 5: The åcb shield attached to the huzzah*
+*Fig. 5: The pcb shield attached to the huzzah*
 
 ![success5]
-*Fig. 5: Form factor comparison with the prototype mdf chassis*
+*Fig. 6: Form factor comparison with the prototype mdf chassis*
 
+As of writing this, the pcb shield is still not yet fully ready, as it is missing the buttons and the led, but we are confident to have them in place and in operation next week. There is still a possibility that we have to remill the board, as the pads for the pin components that we used in Eagle that will provide the wire connectivity for the buttons and the led were smaller than the pins we had. But we are confident either way that we continue to progrees on this endeavor.
 
 [sunday-editions]: /assets/pcb/sunday_editions.jpg
 [success1]: /assets/pcb/success1.jpg
