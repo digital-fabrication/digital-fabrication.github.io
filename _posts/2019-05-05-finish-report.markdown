@@ -14,4 +14,4 @@ The milling process had it's kinks also. In the first draft we did not drill the
 
 ![sunday-editions]
 
-[sunday-editions]: /assets/pcb/sunday-editions.jpg
+[sunday-editions]: /assets/pcb/sunday_editions.jpg
