@@ -4,8 +4,6 @@ title:  "It's done, it works, it was fun! [Summary Report]"
 date:   2019-05-05 21:10:00 +0200
 categories: blinds, final-report
 ---
-Report of projects last week
-
 # "Wait, we're missing the routes for the LED!"
 
 We are planning to mill two shield pcb's for the [huzzah32] controller, and we started with the simpler one ("input-shield") that will house connections for the buttons and LED (the other one will have the dc-dc converter and signaling for the servo, but will be fashioned later on our spare time and is outside of this course). The pcb work started with a logical layout in Eagle based on our TinkerCad model. When we had the initial logical model, we then laid out the components physically to the board on the board view. After doing that, we ran the Eagles autorouting function to get the routing done on the physical layout and we were beaming with delight as it managed to wrestle out a fully connected layout. We were almost taking this straight to the [milling-machine], but fortunately had the sense to step through each route only to find that we had omitted a couple of connections. We added them dutifully but then ran in to problems with the autoroute function. The routing was simply impossible with the given physical layout, and to achieve full connectivity we had to make some further adjustments. With some fiddling of the components we managed to free just enough space for the algorithm to barely squeeze out a single fully connected solution, and even though it was not the prettiest, we took it to the bank.
@@ -86,6 +84,13 @@ Other meaningful more direct links (that are also on the repositories):
 ## To all readers
 
 If you've reached this far on this blog posts and even if you've also read our earlier blog posts, we would like to thank you for taking interest in our project. We've learned a lot during this course and hope that you've learned something new as well, or at least now know more of the possible pitfalls of designing electronic devices.
+
+### Thank y'all
+
+We would like to thank all course personnel and the working forces of Fab Lab Oulu for your support on our journey to design and implement the automagic blinds.
+
+- Special thanks to Erno Lang and Peetu Virkkala for the words of encouragement and the ironing out the very first problems encountered during the proof of concept build!
+- Special thanks to Dr. Antti Mäntyniemi for providing extra help on dc-dc converter design and other very aspects of the project along the way!
 
 ---
 
