@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "It's done, was fun"
+title:  "It's done, it works, it was fun! [Final Report]"
 date:   2019-05-05 21:10:00 +0200
-categories: blinds
+categories: blinds, final-report
 ---
 Report of projects last week
 
