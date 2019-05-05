@@ -13,6 +13,6 @@ We are planning to mill two shield pcb's for the Huzzah controller, and we start
 The milling process had it's kinks also. In the first draft we did not drill the lanes deep enough, and in the cut out phase the board slipped free off the base and the drill head took it for a walk. The second attempt was a fail also, but the third one gave us a beautifyll board!
 
 ![sunday-editions]
-*Fig. 2: The minimum dominating set of a graph*
+*Fig. 1: The two failed pcbs*
 
 [sunday-editions]: /assets/pcb/sunday_editions.jpg
