@@ -69,18 +69,18 @@ During the course we learned a bunch of things. We've successfully build a devic
 
 Even though many of the components and resources have been already hyperlinked, here is an explicit list of links to resources generated and/or used during this course:
 
-* [digital-fabrication organization used for storing all resources during this course on GitHub. You can find everything we've done navigating from here.] (https://github.com/digital-fabrication)
-* [digital-fabrication.github.io blog (this blog) repository] (https://github.com/digital-fabrication/digital-fabrication.github.io)
-* [blinds repository containing code, schematics and other source and binary files used for fabricating] (https://github.com/digital-fabrication/blinds)
+[digital-fabrication organization used for storing all resources during this course on GitHub. You can find everything we've done navigating from here.] (https://github.com/digital-fabrication)
+[digital-fabrication.github.io blog (this blog) repository] (https://github.com/digital-fabrication/digital-fabrication.github.io)
+[blinds repository containing code, schematics and other source and binary files used for fabricating] (https://github.com/digital-fabrication/blinds)
 
 Other meaningful more direct links (that are also on the repositories):
 
-* [Presentation slides] (https://github.com/digital-fabrication/digital-fabrication.github.io/blob/master/assets/Automagic%20venetian%20Bliends.pptx)
-* [Blinds control box] (https://github.com/digital-fabrication/blinds/tree/master/blinds-control-box)
-* [Blinds frame] (https://github.com/digital-fabrication/blinds/tree/master/blinds-frame)
-* [Blinds input-shield] https://github.com/digital-fabrication/blinds/tree/master/blinds-shield/shield-input
-* [Blinds controller box holder] (https://github.com/digital-fabrication/blinds/blob/master/Blinds-koppa.svg)
-* [Blinds controller source code] (https://github.com/digital-fabrication/blinds/blob/master/source.ino)
+[Presentation slides] (https://github.com/digital-fabrication/digital-fabrication.github.io/blob/master/assets/Automagic%20venetian%20Bliends.pptx)
+[Blinds control box] (https://github.com/digital-fabrication/blinds/tree/master/blinds-control-box)
+[Blinds frame] (https://github.com/digital-fabrication/blinds/tree/master/blinds-frame)
+[Blinds input-shield] https://github.com/digital-fabrication/blinds/tree/master/blinds-shield/shield-input
+[Blinds controller box holder] (https://github.com/digital-fabrication/blinds/blob/master/Blinds-koppa.svg)
+[Blinds controller source code] (https://github.com/digital-fabrication/blinds/blob/master/source.ino)
 
 ## To all readers
 
