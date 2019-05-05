@@ -65,6 +65,32 @@ During the course we learned a bunch of things. We've successfully build a devic
 - Dc-dc converter schematic design ("servo-shield") to provide 5V and control signal for the high torque servo motor used on the build
 - Schematic and board design for the input shield and the actual implementation of the shield, provides interface for all the inputs and logically controlled power to the LED indicating the automagic mode
 
+## Resources
+
+Even though many of the components and resources have been already hyperlinked, here is an explicit list of links to resources generated and/or used during this course:
+
+- digital-fabrication organization used for storing all resources during this course on GitHub. You can find everything we've done navigating from here.
+  - :link: https://github.com/digital-fabrication
+- digital-fabrication.github.io blog (this blog) repository
+  - :link: https://github.com/digital-fabrication/digital-fabrication.github.io
+- blinds repository containing code, schematics and other source and binary files used for fabricating
+  - :link: https://github.com/digital-fabrication/blinds
+
+Other meaningful more direct links (that are also on the repositories):
+
+- Presentation slides
+  - :link: https://github.com/digital-fabrication/digital-fabrication.github.io/blob/master/assets/Automagic%20venetian%20Bliends.pptx
+- Blinds control box
+  - :link: https://github.com/digital-fabrication/blinds/tree/master/blinds-control-box
+- Blinds frame
+  - :link: https://github.com/digital-fabrication/blinds/tree/master/blinds-frame
+- Blinds input-shield
+  - :link: https://github.com/digital-fabrication/blinds/tree/master/blinds-shield/shield-input
+- Blinds controller box holder
+  - :link: https://github.com/digital-fabrication/blinds/blob/master/Blinds-koppa.svg
+- Blinds controller source code
+  - :link: https://github.com/digital-fabrication/blinds/blob/master/source.ino
+
 ## To all readers
 
 If you've reached this far on this blog posts and even if you've also read our earlier blog posts, we would like to thank you for taking interest in our project. We've learned a lot during this course and hope that you've learned something new as well, or at least now know more of the possible pitfalls of designing electronic devices.
