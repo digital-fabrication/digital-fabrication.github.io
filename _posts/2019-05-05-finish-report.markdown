@@ -78,7 +78,7 @@ Other meaningful more direct links (that are also on the repositories):
 * [Presentation slides](https://github.com/digital-fabrication/digital-fabrication.github.io/blob/master/assets/Automagic%20venetian%20Bliends.pptx)
 * [Blinds control box](https://github.com/digital-fabrication/blinds/tree/master/blinds-control-box)
 * [Blinds frame](https://github.com/digital-fabrication/blinds/tree/master/blinds-frame)
-* [Blinds input-shield]https://github.com/digital-fabrication/blinds/tree/master/blinds-shield/shield-input
+* [Blinds input-shield](https://github.com/digital-fabrication/blinds/tree/master/blinds-shield/shield-input)
 * [Blinds controller box holder](https://github.com/digital-fabrication/blinds/blob/master/Blinds-koppa.svg)
 * [Blinds controller source code](https://github.com/digital-fabrication/blinds/blob/master/source.ino)
 
