@@ -36,5 +36,4 @@ Thanks for hanging us so far, please bear a bit longer!
 
 ---
 
-
 ##### <a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page</a>
