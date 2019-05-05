@@ -28,7 +28,7 @@ The milling process had it's kinks also. In the first draft we did not drill the
 *Fig. 5: The pcb shield ("input-shield") attached to the [huzzah32]*
 
 ![success5]
-*Fig. 5: Form factor comparison with the prototype mdf chassis*
+*Fig. 6: Form factor comparison with the prototype mdf chassis*
 
 # Division of work
 
@@ -53,6 +53,8 @@ We did not specifically named any team members for each part of work we conducte
 
 # The end results
 
+As of writing this, the pcb shield is still not yet fully ready, as it is missing the buttons and the led, but we are confident to have them in place and in operation next week. There is still a possibility that we have to remill the board, as the pads for the pin components that we used in Eagle that will provide the wire connectivity for the buttons and the led were smaller than the pins we had. But we are confident either way that we continue to progrees on this endeavor.
+
 During the course we learned a bunch of things. We've successfully build a device that tilts the blind mechanism based on the current level of luminosity. We are very happy with the results, and we are still continuing the work to minimize the electronics and to literally fabricate a proper casing for the apparatus. In the scope of this course we did multitude of things, and to remind you of all of our doings, here is a list of all components of the design we've done (in the order they were pretty much implemented):
 
 - TinkerCad model of the controller, actuator (servo motor) and sensors with other required components
@@ -66,6 +68,7 @@ During the course we learned a bunch of things. We've successfully build a devic
 ## To all readers
 
 If you've reached this far on this blog posts and even if you've also read our earlier blog posts, we would like to thank you for taking interest in our project. We've learned a lot during this course and hope that you've learned something new as well, or at least now know more of the possible pitfalls of designing electronic devices.
+
 
 [sunday-editions]: /assets/pcb/sunday_editions.jpg
 [success1]: /assets/pcb/success1.jpg
